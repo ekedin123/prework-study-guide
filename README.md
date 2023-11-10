@@ -1,4 +1,4 @@
-# Beginning my we coding journey    
+# Beginning my web coding journey    
 
 ## using new languages like HTML, CSS, and JavaScript, I have taught myself how to code a basic webpage from scratch. I did this to organize my notes and information from Bootcamp and to solve the problem of keeping all of my important information in one place, by doing so I learned the fundamental elements of web coding and am very excited to continue
 
